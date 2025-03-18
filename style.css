@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    color:greenyellow;
+    font-size: 40px;
+}
+
+h2 {
+    color:lawngreen;
+    background-color:mediumseagreen;
+}
+
+p {
+    font-family:seagreen;
+}
+body {
+    width: 800px;  /* largeur de 800 pixels */
+    margin: auto;  /* marges automatiques pour centrer horizontalement */
+    background-color: rgb(27, 25, 257);  /* couleur du fond */  
+}
+padding-left: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+border-radius: 10px;
+margin-left: 20px;
+margin-right: 100px;
